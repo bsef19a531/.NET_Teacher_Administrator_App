@@ -1,0 +1,12 @@
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\bin\Debug\Teacher_Administrator_App.exe.config
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\bin\Debug\Teacher_Administrator_App.exe
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\bin\Debug\Teacher_Administrator_App.pdb
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\obj\Debug\Teacher_Administrator_App.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\obj\Debug\Teacher_Administrator_App.Form1.resources
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\obj\Debug\Teacher_Administrator_App.Properties.Resources.resources
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\obj\Debug\Teacher_Administrator_App.csproj.GenerateResource.cache
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\obj\Debug\Teacher_Administrator_App.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\obj\Debug\Teacher_Administrator_App.exe
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\obj\Debug\Teacher_Administrator_App.pdb
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\bin\Debug\Database1.mdf
+C:\Users\Abdullah\source\repos\Teacher_Administrator_App\Teacher_Administrator_App\bin\Debug\Database1_log.ldf
